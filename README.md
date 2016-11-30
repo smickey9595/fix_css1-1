@@ -8,4 +8,10 @@
 - цифры не изменялись
 
 ###Исходный вид
-![](https://github.com/luschenko/fix_css1/blob/master/bcss21.png | width=400)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss21.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss22.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss23.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss24.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss25.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss26.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss27.png)
