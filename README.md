@@ -8,4 +8,4 @@
 - цифры не изменялись
 
 ###Исходный вид
-![](https://github.com/luschenko/fix_css1/blob/master/bcss21.png)
+![](https://github.com/luschenko/fix_css1/blob/master/bcss21.png | width=400)
