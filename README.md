@@ -8,4 +8,4 @@
 - цифры не изменялись
 
 ###Исходный вид
-[logo]:https://github.com/luschenko/fix_css1/bcss21.png
+[logo]: https://github.com/luschenko/fix_css1/bcss21.png
